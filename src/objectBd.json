@@ -14,6 +14,21 @@
         "stream_title": "Recycling"
     },
     {
+        "material_name": "beverage_can",
+        "material_synonyms": "Beverage can, Coca-cola, Cola, Can",
+        "material_title": "Beverage can",
+        "special_instructions": "Rinse before recycling. Fun Fact: In some states, you can return them to stores for money.",
+        "stream_name": "recycling",
+        "stream_title": "Recycling"
+    },
+    {
+        "material_name": "apple",
+        "material_synonyms": "apple, red apple",
+        "material_title": "Apple",
+        "stream_name": "wizard_compost",
+        "stream_title": "Compost"
+    },
+    {
         "material_name": "plastic_bottle",
         "material_synonyms": "soap bottle, ketchup bottle, salad dressing bottle, hand lotion bottle, Contact solution bottle, Glucerna bottle, Pediasure, Ketchup, toilet bowl cleaner bottle",
         "material_title": "Plastic bottle (non-beverage)",
